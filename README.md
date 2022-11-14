@@ -1,1 +1,1 @@
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/shamsate" alt="shamsate's 42 stats" style="text-align:center;"/></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/shamsate" alt="shamsate's 42 stats" align= "center" /></a>
