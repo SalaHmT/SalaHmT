@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/-@Bigby.-%23181717?style=flat-square&logo=github)](https://github.com/SalaHmT)
 </div>
 <div align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/shamsate" alt="shamsate's 42 stats" /></a>
+  <a href=""><img src="https://drh.ma/wp-content/uploads/2022/03/1337-768x397.jpg" /></a>
 
 </div>
 
