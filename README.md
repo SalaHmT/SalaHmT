@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![87f08f357f9548a283e98654a5c73848](https://github.com/SalaHmT/SalaHmT/blob/main/github-header-image.png?raw=true)
+![87f08f357f9548a283e98654a5c73848](https://github.com/SalaHmT/SalaHmT/blob/main/github-header-image(26).png?raw=true)
 
 
 </div>
