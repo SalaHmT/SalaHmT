@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi  ,  I'm HAMSATE SALAH  .ᐟ › </h2>
+<h2 align="center">Hi  ,  I'm HAMSATE SALAH › </h2>
 
 
 
